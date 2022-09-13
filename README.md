@@ -17,6 +17,7 @@
    - Using groupby() to aggregate data
    - Plotting charts to visulaize data
    - Labelling graphs
-4. Dashboard
+4. [Dashboard](https://public.tableau.com/app/profile/oladayo.timileyin/viz/salesdashboardupdated/Oneyearsalesanalysisdashboard)
    - Tableau Public was used to build a dashboard for the data
    - It is an interative visual that can be use to filter the data based on various parameters
+
